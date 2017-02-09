@@ -4,7 +4,7 @@
   <title><![CDATA[Cane Geek]]></title>
   <link href="http://canezk.github.io/atom.xml" rel="self"/>
   <link href="http://canezk.github.io/"/>
-  <updated>2017-02-09T16:41:25+08:00</updated>
+  <updated>2017-02-09T16:46:18+08:00</updated>
   <id>http://canezk.github.io/</id>
   <author>
     <name><![CDATA[canezk]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Title]]></title>
-    <link href="http://canezk.github.io/blog/2017/02/09/title/"/>
-    <updated>2017-02-09T16:28:35+08:00</updated>
-    <id>http://canezk.github.io/blog/2017/02/09/title</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
