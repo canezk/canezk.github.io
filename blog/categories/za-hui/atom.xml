@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Cane Geek]]></title>
-  <link href="http://canezk.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 杂烩 | Cane Geek]]></title>
+  <link href="http://canezk.github.io/blog/categories/za-hui/atom.xml" rel="self"/>
   <link href="http://canezk.github.io/"/>
   <updated>2017-02-09T16:48:26+08:00</updated>
   <id>http://canezk.github.io/</id>
